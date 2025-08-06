@@ -28,11 +28,9 @@ It also validates **access boundaries** by confirming successful access to allow
 | S3 Upload (PutObject 2)   | ✅ Success | [📸 View](./screenshots/s3-PutObject-upload02.png) |
 | S3 Delete Object          | ✅ Success | [📸 View](./screenshots/s3-DeleteObj.png) |
 | Permissions Attached      | ✅ Done    | [📸 View](./screenshots/permissions--attached.png) |
-| Policy Review             | ✅ Done    | [📸 View](./screenshots/permission-policy-reviewed.png) |
+| Policy Reviewed           | ✅ Done    | [📸 View](./screenshots/permission-policy-reviewed.png) |
 | S3 Access Test            | ✅ Success | [📸 View](./screenshots/access-test-success.png) |
 | CloudWatch Logs Access    | ❌ Denied  | [📸 View](./screenshots/access-denied-cloudwatch.png) |
-
----
 
 ## 🖼️ Screenshot Previews
 
@@ -47,8 +45,6 @@ Below are clickable previews of key screenshots:
 | Upload to S3 #2 | [<img src="./screenshots/s3-PutObject-upload02.png" width="200"/>](./screenshots/s3-PutObject-upload02.png) |
 | Delete S3 Object | [<img src="./screenshots/s3-DeleteObj.png" width="200"/>](./screenshots/s3-DeleteObj.png) |
 | Access Denied (CloudWatch) | [<img src="./screenshots/access-denied-cloudwatch.png" width="200"/>](./screenshots/access-denied-cloudwatch.png) |
-
----
 
 ## 🧰 AWS Services Used
 
